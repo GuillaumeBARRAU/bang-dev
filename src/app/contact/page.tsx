@@ -28,7 +28,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <span className="text-neutral-500">Email : </span>
-                  <span>bang.artiste@gmail.com</span>
+                  <span>guillaume.barrau69@gmail.com</span>
                 </div>
                 <div>
                   <span className="text-neutral-500">Intervention : </span>
@@ -37,7 +37,7 @@ export default function ContactPage() {
               </div>
 
               <div className="mt-6 flex flex-col gap-3">
-                <a href="tel:+33000000000">
+                <a href="tel:+33687552139">
                   <Button variant="outline" className="w-full border-neutral-300 hover:bg-neutral-50">
                     Appeler
                   </Button>

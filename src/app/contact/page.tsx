@@ -28,7 +28,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <span className="text-neutral-500">Email : </span>
-                  <span>guillaume.barrau69@gmail.com</span>
+                  <span>bang.artiste@gmail.com</span>
                 </div>
                 <div>
                   <span className="text-neutral-500">Intervention : </span>

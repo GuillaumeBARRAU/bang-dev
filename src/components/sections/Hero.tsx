@@ -11,9 +11,8 @@ export default function Hero() {
             <p className="text-sm text-neutral-600">
               Sites internet • Assistance informatique • À domicile & à distance
             </p>
-
             <h1 className="mt-3 text-4xl sm:text-5xl font-semibold tracking-tight">
-              Création de sites internet & assistance informatique à domicile
+              Besoin d'aide avec l'informatique ou Internet?
             </h1>
 
             <p className="mt-4 text-lg text-neutral-600">
